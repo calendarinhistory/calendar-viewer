@@ -1,208 +1,92 @@
-
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Calendar Viewer</title>
+  <title>Start Calendar Viewer</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       padding: 20px;
-      background: #fdf6e3;
+      background: #eef;
     }
-    h1, h2, p {
+    h1 {
       text-align: center;
     }
-    #calendarOutput {
-      margin-top: 30px;
-      text-align: left;
-      font-size: 20px;
-      max-height: 600px;
-      overflow-y: auto;
-      overflow-x: visible;
-    }
-    .nav-buttons {
-      text-align: center;
-      margin-top: 20px;
-    }
-    button {
+    select, input, button {
+      display: block;
+      margin: 10px auto;
       font-size: 16px;
-      padding: 10px 20px;
-      margin: 0 10px;
-      cursor: pointer;
-      border: 1px solid #ccc;
-      border-radius: 4px;
-      background: #fff;
+      width: 200px;
     }
-    button:hover {
-      background: #f0e6d2;
-    }
-    table {
-      margin: 0;
-      font-size: 16px;
-      border-collapse: collapse;
-      table-layout: auto;
-      width: auto;
-    }
-    th, td {
-      padding: 6px 12px;
-      border: 1px solid #ccc;
-      vertical-align: top;
-    }
-    td.normal-cell {
-      white-space: nowrap;
-      overflow: hidden;
-      text-overflow: ellipsis;
-    }
-    td.overflow-cell {
-      position: relative;
-      white-space: nowrap;
-      overflow: visible;
-      text-overflow: clip;
-      max-width: 60px;
-    }
-    .highlight-row {
-      background-color: #e0f7ff; /* light blue */
-    }
-    thead tr {
-      position: sticky;
-      top: 0;
-      background: #f0e6d2;
-      z-index: 1;
-    }
-    #columnToggles {
+    p.note, p.warning {
       text-align: center;
-      margin: 15px 0;
+      max-width: 700px;
+      margin: 10px auto;
+      font-size: 16px;
     }
-    #columnToggles label {
-      margin: 0 8px;
-      font-size: 14px;
+    p.warning {
+      color: red;
+      display: none;
     }
   </style>
 </head>
 <body>
-  <h1>📅 Calendar Viewer</h1>
-  <h2 id="calendarTitle"></h2>
-  <p id="calendarNote"></p>
+  <h1>📜 Choose Your Calendar</h1>
+  <p class="note">
+    This calendar viewer lets you explore historical dates using multiple calendar systems:<br>
+    <strong>Gregorian</strong> (1583 AD to present), <strong>Julian</strong> (532 AD to 1582 AD), and <strong>Historical</strong> (531 AD and earlier).
+  </p>
+  <p id="rangeWarning" class="warning">⚠️ The year you entered is outside the valid range for the selected calendar type.</p>
 
-  <div class="nav-buttons">
-    <button onclick="goBack()">🔙 Back to Start</button>
-    <button onclick="changeYear(-1)">⬅️ Previous Year</button>
-    <button onclick="changeYear(1)">➡️ Next Year</button>
-    <button onclick="window.location.href='contact.html'">📨 Contact</button>
-  </div>
+  <select id="calendarType" aria-label="Select calendar type">
+    <option value="Gregorian">Gregorian</option>
+    <option value="Julian">Julian</option>
+    <option value="Historical">Historical</option>
+  </select>
 
-  <div id="columnToggles"></div>
-  <div id="calendarOutput">Loading calendar data…</div>
+  <input type="number" id="yearInput" value="1600" min="1" aria-label="Enter year" placeholder="Enter year" />
+
+  <select id="eraSelect" aria-label="Select era">
+    <option value="AD">AD</option>
+    <option value="BC">BC</option>
+  </select>
+
+  <button type="button" onclick="goToViewer()">View Calendar</button>
+  <button type="button" onclick="window.location.href='contact.html'">📨 Contact</button>
 
   <script>
-    let currentParams = {};
+    const warning = document.getElementById('rangeWarning');
 
-    function getParams() {
-      const urlParams = new URLSearchParams(window.location.search);
-      return {
-        type: urlParams.get('type'),
-        year: parseInt(urlParams.get('year')),
-        era: urlParams.get('era')
-      };
-    }
+    function goToViewer() {
+      const type = document.getElementById('calendarType').value;
+      const year = parseInt(document.getElementById('yearInput').value);
+      const era = document.getElementById('eraSelect').value;
 
-    function goBack() {
-      window.location.href = 'index.html';
-    }
+      let outOfRange = false;
 
-    function changeYear(offset) {
-      let { year, era, type } = currentParams;
-
-      let signedYear = era === 'BC' ? -year : year;
-      signedYear += offset;
-      if (signedYear === 0) {
-        signedYear = offset > 0 ? 1 : -1;
-      }
-
-      year = Math.abs(signedYear);
-      era = signedYear < 0 ? 'BC' : 'AD';
-
-      const newParams = new URLSearchParams({ type, year, era });
-      window.location.href = `viewer.html?${newParams.toString()}`;
-    }
-
-    function renderCalendar({ type, year, era }) {
-      currentParams = { type, year, era };
-
-      document.getElementById('calendarTitle').textContent = `${type} Calendar — ${year} ${era}`;
-
-      let note = '';
-      if (type === 'Gregorian') {
-        note = 'Gregorian calendar (valid from 1583 AD onward).';
-      } else if (type === 'Julian') {
-        note = 'Julian calendar (valid from 532 AD to 1582 AD).';
-      } else {
-        note = 'Historical calendar (531 AD → 1 AD, then 1 BC and earlier).';
-      }
-      document.getElementById('calendarNote').textContent = note;
-
-      const filename = `CalendarApp/${type}_${year}_${era}.csv`;
-      fetch(filename)
-        .then(response => {
-          if (!response.ok) throw new Error("File not found");
-          return response.text();
-        })
-        .then(csv => {
-          const rows = csv.trim().split('\n').map(line =>
-            line.split(',').map(cell => cell.trim())
-          );
-
-          let html = '<table id="calendarTable"><thead><tr>';
-          rows[0].forEach(cell => {
-            html += `<th scope="col">${cell}</th>`;
-          });
-          html += '</tr></thead><tbody>';
-          rows.slice(1).forEach(row => {
-            const rowHasPipe = row.some(cell => cell.includes('|'));
-            html += `<tr${rowHasPipe ? ' class="highlight-row"' : ''}>`;
-            row.forEach(cell => {
-              const transformedCell = cell.replace(/\|/g, '|-----');
-              const cellClass = cell.includes('|') ? 'overflow-cell' : 'normal-cell';
-              html += `<td class="${cellClass}" title="${transformedCell}">${transformedCell}</td>`;
-            });
-            html += '</tr>';
-          });
-          html += '</tbody></table>';
-          document.getElementById('calendarOutput').innerHTML = html;
-
-          const toggleContainer = document.getElementById('columnToggles');
-          toggleContainer.innerHTML = '';
-          rows[0].forEach((header, index) => {
-            const id = `colToggle${index}`;
-            toggleContainer.innerHTML += `
-              <label>
-                <input type="checkbox" id="${id}" checked onchange="toggleColumn(${index}, this.checked)">
-                ${header}
-              </label>
-            `;
-          });
-        })
-        .catch(error => {
-          console.error("Fetch error:", error);
-          document.getElementById('calendarOutput').textContent =
-            `⚠️ No calendar data found for ${year} ${era} (${type}). Try a different year or calendar type.`;
-        });
-    }
-
-    function toggleColumn(colIndex, show) {
-      const table = document.getElementById('calendarTable');
-      if (!table) return;
-
-      for (let row of table.rows) {
-        if (row.cells[colIndex]) {
-          row.cells[colIndex].style.display = show ? '' : 'none';
+      if (year <= 0) {
+        outOfRange = true;
+      } else if (type === "Gregorian" && (era === "BC" || year < 1583)) {
+        outOfRange = true;
+      } else if (type === "Julian" && (year < 532 || year > 1582 || era === "BC")) {
+        outOfRange = true;
+      } else if (type === "Historical") {
+        if ((era === "AD" && year > 531) || (era === "BC" && year < 1)) {
+          outOfRange = true;
         }
       }
+
+      if (outOfRange) {
+        warning.style.display = "block";
+      } else {
+        warning.style.display = "none";
+        const params = new URLSearchParams({ type, year, era });
+        window.location.href = `viewer.html?${params.toString()}`;
+      }
     }
 
-    renderCalendar(getParams());
+    document.getElementById('calendarType').addEventListener('change', () => warning.style.display = 'none');
+    document.getElementById('yearInput').addEventListener('input', () => warning.style.display = 'none');
+    document.getElementById('eraSelect').addEventListener('change', () => warning.style.display = 'none');
   </script>
 </body>
 </html>
-
-
