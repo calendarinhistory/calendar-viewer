@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <title>Start Calendar Viewer</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -12,10 +13,10 @@
       text-align: center;
     }
     select, input, button {
-      display: block;
-      margin: 10px auto;
       font-size: 16px;
       width: 200px;
+      margin: 10px auto;
+      display: block;
     }
     p.note, p.warning {
       text-align: center;
@@ -25,6 +26,22 @@
     }
     p.warning {
       color: red;
+      display: none;
+    }
+    .calendar-row {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 12px;
+      margin: 10px auto;
+    }
+    .calendar-row select {
+      margin: 0;
+    }
+    .calendar-note {
+      font-size: 16px;
+      color: #333;
+      white-space: nowrap;
       display: none;
     }
   </style>
@@ -37,29 +54,32 @@
   </p>
   <p id="rangeWarning" class="warning">⚠️ The year you entered is outside the valid range for the selected calendar type.</p>
 
-  <select id="calendarType" aria-label="Select calendar type">
-    <option value="Gregorian">Gregorian</option>
-    <option value="Julian">Julian</option>
-    <option value="Historical">Historical</option>
-  </select>
+  <div class="calendar-row">
+    <select id="calendarType" aria-label="Select calendar type">
+      <option value="Gregorian">Gregorian</option>
+      <option value="Julian">Julian</option>
+      <option value="Historical">Historical</option>
+    </select>
+    <div id="gregorianNote" class="calendar-note">Valid dates are from 1583 AD to present.</div>
+    <div id="julianNote" class="calendar-note">Valid dates are from 532 AD to 1582 AD.</div>
+    <div id="historicalNote" class="calendar-note">Valid dates are 531 AD and earlier.</div>
+  </div>
 
-  <input type="number" id="yearInput" value="1600" min="1" aria-label="Enter year" placeholder="Enter year" />
+  <input type="number" id="yearInput" value="1600" min="1" aria-label="Enter year" placeholder="e.g., 1600" />
 
   <select id="eraSelect" aria-label="Select era">
-    <option value="AD">AD</option>
-    <option value="BC">BC</option>
+    <!-- Options will be populated dynamically -->
   </select>
 
   <button type="button" onclick="goToViewer()">View Calendar</button>
-  <button type="button" onclick="window.location.href='contact.html'">📨 Contact</button>
+  <button type="button" onclick="window.location.href='contact.html'" aria-label="Go to contact page">📨 Contact</button>
 
   <script>
-    const warning = document.getElementById('rangeWarning');
-
     function goToViewer() {
       const type = document.getElementById('calendarType').value;
       const year = parseInt(document.getElementById('yearInput').value);
       const era = document.getElementById('eraSelect').value;
+      const warning = document.getElementById('rangeWarning');
 
       let outOfRange = false;
 
@@ -84,9 +104,45 @@
       }
     }
 
-    document.getElementById('calendarType').addEventListener('change', () => warning.style.display = 'none');
-    document.getElementById('yearInput').addEventListener('input', () => warning.style.display = 'none');
-    document.getElementById('eraSelect').addEventListener('change', () => warning.style.display = 'none');
+    function updateEraOptions() {
+      const calendarType = document.getElementById('calendarType').value;
+      const eraSelect = document.getElementById('eraSelect');
+
+      if (calendarType === 'Gregorian' || calendarType === 'Julian') {
+        eraSelect.innerHTML = '<option value="AD">AD</option>';
+      } else {
+        eraSelect.innerHTML = '<option value="AD">AD</option><option value="BC">BC</option>';
+      }
+
+      eraSelect.value = 'AD';
+    }
+
+    function updateCalendarNotes() {
+      const calendarType = document.getElementById('calendarType').value;
+      document.getElementById('gregorianNote').style.display = calendarType === 'Gregorian' ? 'inline-block' : 'none';
+      document.getElementById('julianNote').style.display = calendarType === 'Julian' ? 'inline-block' : 'none';
+      document.getElementById('historicalNote').style.display = calendarType === 'Historical' ? 'inline-block' : 'none';
+    }
+
+    document.addEventListener('DOMContentLoaded', () => {
+      updateEraOptions();
+      updateCalendarNotes();
+
+      document.getElementById('calendarType').addEventListener('change', () => {
+        document.getElementById('rangeWarning').style.display = 'none';
+        updateEraOptions();
+        updateCalendarNotes();
+      });
+
+      document.getElementById('yearInput').addEventListener('input', () => {
+        document.getElementById('rangeWarning').style.display = 'none';
+      });
+
+      document.getElementById('eraSelect').addEventListener('change', () => {
+        document.getElementById('rangeWarning').style.display = 'none';
+      });
+    });
   </script>
 </body>
 </html>
+
