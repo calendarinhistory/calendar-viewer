@@ -1,367 +1,366 @@
-SOLAR,9947,GREGORIAN 1947
-1st,Wed,January 1 st
-2nd,Thu,January 2 nd
-3rd,Fri,January 3 rd
-4th,Sat,January 4 th
-5th,Sun,January 5 th
-6th,Mon,January 6 th
-7th,Tue     Full,January 7 th
-8th,Wed,January 8 th
-9th,Thu,January 9 th
-10th,Fri,January 10 th
-11th,Sat,January 11 th
-12th,Sun,January 12 th
-13th,Mon,January 13 th
-14th,Tue,January 14 th
-15th,Wed,January 15 th
-16th,Thu,January 16 th
-17th,Fri,January 17 th
-18th,Sat,January 18 th
-19th,Sun,January 19 th
-20th,Mon,January 20 th
-21st,Tue,January 21 st
-22nd,Wed     New,January 22 nd
-23rd,Thu,January 23 rd
-24th,Fri,January 24 th
-25th,Sat,January 25 th
-26th,Sun,January 26 th
-27th,Mon,January 27 th
-28th,Tue,January 28 th
-29th,Wed,January 29 th
-30th,Thu,January 30 th
-31st,Fri,January 31 st
-32nd,Sat,Febuary 1 st
-33rd,Sun,Febuary 2 nd
-34th,Mon,Febuary 3 rd
-35th,Tue,Febuary 4 th
-36th,Wed     Full,Febuary 5 th
-36th,Thu,Febuary 6 th
-38th,Fri,Febuary 7 th
-39th,Sat,Febuary 8 th
-40th,Sun,Febuary 9 th
-41st,Mon,Febuary 10 th
-42nd,Tue,Febuary 11 th
-43rd,Wed,Febuary 12 th
-44th,Thu,Febuary 13 th
-45th,Fri,Febuary 14 th
-46th,Sat,Febuary 15 th
-47th,Sun,Febuary 16 th
-48th,Mon,Febuary 17 th
-49th,Tue,Febuary 18 th
-50th,Wed,Febuary 19 th
-51st,Thu,Febuary 20 th
-52nd,Fri     New,Febuary 21 st
-53rd,Sat,Febuary 22 nd
-54th,Sun,Febuary 23 rd
-55th,Mon,Febuary 24 th
-56th,Tue,Febuary 25 th
-57th,Wed,Febuary 26 th
-58th,Thu,Febuary 27 th
-59th,Fri,Febuary 28 th
-60th,Sat,March 1 st
-61st,Sun,March 2 nd
-62nd,Mon,March 3 rd
-63rd,Tue,March 4 th
-64th,Wed,March 5 th
-65th,Thu,March 6 th
-66th,Fri     Full,March 7 th
-67th,Sat,March 8 th
-68th,Sun,March 9 th
-69th,Mon,March 10 th
-70th,Tue,March 11 th
-71st,Wed,March 12 th
-72nd,Thu,March 13 th
-73rd,Fri,March 14 th
-74th,Sat,March 15 th
-75th,Sun,March 16 th
-76th,Mon,March 17 th
-77th,Tue,March 18 th
-78th,Wed,March 19 th
-79th,Thu,March 20 th
-80th EQ,Fri,March 21 st
-81st,Sat     New,March 22 nd
-82nd,Sun,March 23 rd
-83rd,Mon,March 24 th
-84th,Tue,March 25 th
-85th,Wed,March 26 th
-86th,Thu,March 27 th
-87th,Fri,March 28 th
-88th,Sat,March 29 th
-89th,Sun,March 30 th
-90th,Mon,March 31 st
-91st,Tue,April 1 st
-92nd,Wed,April 2 nd
-93rd,Thu,April 3 rd
-94th,Fri,April 4 th
-95th,Sat     Full,April 5 th
-96th,Sun,April 6 th
-97th,Mon,April 7 th
-98th,Tue,April 8 th
-99th,Wed,April 9 th
-100th,Thu,April 10 th
-101st,Fri,April 11 th
-102nd,Sat,April 12 th
-103rd,Sun,April 13 th
-104th,Mon,April 14 th
-105th,Tue,April 15 th
-106th,Wed,April 16 th
-107th,Thu,April 17 th
-108th,Fri,April 18 th
-109th,Sat,April 19 th
-110th,Sun,April 20 th
-111th,Mon     New,April 21 st
-112th,Tue,April 22 nd
-113th,Wed,April 23 rd
-114th,Thu,April 24 th
-115th,Fri,April 25 th
-116th,Sat,April 26 th
-117th,Sun,April 27 th
-118th,Mon,April 28 th
-119th,Tue,April 29 th
-120th,Wed,April 30 th
-121st,Thu,May 1 st
-122nd,Fri,May 2 nd
-123rd,Sat,May 3 rd
-124th,Sun,May 4 th
-125th,Mon     Full,May 5 th
-126th,Tue,May 6 th
-127th,Wed,May 7 th
-128th,Thu,May 8 th
-129th,Fri,May 9 th
-130th,Sat,May 10 th
-131st,Sun,May 11 th
-132nd,Mon,May 12 th
-133rd,Tue,May 13 th
-134th,Wed,May 14 th
-135th,Thu,May 15 th
-136th,Fri,May 16 th
-137th,Sat,May 17 th
-138th,Sun,May 18 th
-139th,Mon,May 19 th
-140th,Tue     New,May 20 th
-141st,Wed,May 21 st
-142nd,Thu,May 22 nd
-143rd,Fri,May 23 rd
-144th,Sat,May 24 th
-145th,Sun,May 25 th
-146th,Mon,May 26 th
-147th,Tue,May 27 th
-148th,Wed,May 28 th
-149th,Thu,May 29 th
-150th,Fri,May 30 th
-151st,Sat,May 31 st
-152nd,Sun,June 1 st
-153rd,Mon,June 2 nd
-154th,Tue     Full,June 3 rd
-155th,Wed,June 4 th
-156th,Thu,June 5 th
-157th,Fri,June 6 th
-158th,Sat,June 7 th
-159th,Sun,June 8 th
-160th S,Mon,June 9 th
-161st,Tue,June 10 th
-162nd,Wed,June 11 th
-163rd,Thu,June 12 th
-164th,Fri,June 13 th
-165th,Sat,June 14 th
-166th,Sun,June 15 th
-167th,Mon,June 16 th
-168th,Tue,June 17 th
-169th,Wed     New,June 18 th
-170th,Thu,June 19 th
-171st,Fri,June 20 th
-172nd,Sat,June 21 st
-173rd,Sun,June 22 nd
-174th,Mon,June 23 rd
-175th,Tue,June 24 th
-176th,Wed,June 25 th
-177th,Thu,June 26 th
-178th,Fri,June 27 th
-179th,Sat,June 28 th
-180th,Sun,June 29 th
-181st,Mon,June 30 th
-182nd,Tue,July 1 st
-183rd,Wed,July 2 nd
-184th,Thu     Full,July 3 rd
-185th,Fri,July 4 th
-186th,Sat,July 5 th
-187th,Sun,July 6 th
-188th,Mon,July 7 th
-189th,Tue,July 8 th
-190th,Wed,July 9 th
-191st,Thu,July 10 th
-192nd,Fri,July 11 th
-193rd,Sat,July 12 th
-194th,Sun,July 13 th
-195th,Mon,July 14 th
-196th,Tue,July 15 th
-197th,Wed,July 16 th
-198th,Thu,July 17 th
-199th,Fri     New,July 18 th
-200th,Sat,July 19 th
-201st,Sun,July 20 th
-202nd,Mon,July 21 st
-203rd,Tue,July 22 nd
-204th,Wed,July 23 rd
-205th,Thu,July 24 th
-206th,Fri,July 25 th
-207th,Sat,July 26 th
-208th,Sun,July 27 th
-209th,Mon,July 28 th
-210th,Tue,July 29 th
-211th,Wed,July 30 th
-212th,Thu,July 31 st
-213th,Fri,August 1 st
-214th,Sat     Full,August 2 nd
-215th,Sun,August 3 rd
-216th,Mon,August 4 th
-217th,Tue,August 5 th
-218th,Wed,August 6 th
-219th,Thu,August 7 th
-220th,Fri,August 8 th
-221st,Sat,August 9 th
-222nd,Sun,August 10 th
-223rd,Mon,August 11 th
-224th,Tue,August 12 th
-225th,Wed,August 13 th
-226th,Thu,August 14 th
-227th,Fri,August 15 th
-228th,Sat     New,August 16 th
-229th,Sun,August 17 th
-230th,Mon,August 18 th
-231st,Tue,August 19 th
-232nd,Wed,August 20 th
-233rd,Thu,August 21 st
-234th,Fri,August 22 nd
-235th,Sat,August 23 rd
-236th,Sun,August 24 th
-237th,Mon,August 25 th
-238th,Tue,August 26 th
-239th,Wed,August 27 th
-240th,Thu,August 28 th
-241st,Fri,August 29 th
-242nd,Sat,August 30 th
-243rd,Sun     Full,August 31 st
-244th,Mon,September 1 st
-245th,Tue,September 2 nd
-246th,Wed,September 3 rd
-247th,Thu,September 4 th
-248th,Fri,September 5 th
-249th,Sat,September 6 th
-250th,Sun,September 7 th
-251st,Mon,September 8 th
-252nd,Tue,September 9 th
-253rd,Wed,September 10 th
-254th,Thu,September 11 th
-255th,Fri,September 12 th
-256th,Sat,September 13 th
-257th,Sun     New,September 14 th
-258th,Mon,September 15 th
-259th,Tue,September 16 th
-260th,Wed,September 17 th
-261st,Thu,September 18 th
-262nd,Fri,September 19 th
-263rd,Sat,September 20 th
-264th,Sun,September 21 st
-265th,Mon,September 22 nd
-266th EQ,Tue,September 23 rd
-267th,Wed,September 24 th
-268th,Thu,September 25 th
-269th,Fri,September 26 th
-270th,Sat,September 27 th
-271st,Sun,September 28 th
-272nd,Mon,September 29 th
-273rd,Tue     Full,September 30 th
-274th,Wed,October 1 st
-275th,Thu,October 2 nd
-276th,Fri,October 3 rd
-277th,Sat,October 4 th
-278th,Sun,October 5 th
-279th,Mon,October 6 th
-280th,Tue,October 7 th
-281st,Wed,October 8 th
-282nd,Thu,October 9 th
-283rd,Fri,October 10 th
-284th,Sat,October 11 th
-285th,Sun,October 12 th
-286th,Mon,October 13 th
-287th,Tue     New,October 14 th
-288th,Wed,October 15 th
-289th,Thu,October 16 th
-290th,Fri,October 17 th
-291st,Sat,October 18 th
-292nd,Sun,October 19 th
-293rd,Mon,October 20 th
-294th,Tue,October 21 st
-295th,Wed,October 22 nd
-296th,Thu,October 23 rd
-297th,Fri,October 24 th
-298th,Sat,October 25 th
-299th,Sun,October 26 th
-300th,Mon,October 27 th
-301st,Tue,October 28 th
-302nd,Wed     Full,October 29 th
-303rd,Thu,October 30 th
-304th,Fri,October 31 st
-305th,Sat,November 1 st
-306th,Sun,November 2 nd
-307th,Mon,November 3 rd
-308th,Tue,November 4 th
-309th,Wed,November 5 th
-310th,Thu,November 6 th
-311th,Fri,November 7 th
-312th,Sat,November 8 th
-313th,Sun,November 9 th
-314th,Mon,November 10 th
-315th,Tue,November 11 th
-316th,Wed     New,November 12 th
-317th,Thu,November 13 th
-318th,Fri,November 14 th
-319th,Sat,November 15 th
-320th,Sun,November 16 th
-321st,Mon,November 17 th
-322nd,Tue,November 18 th
-323rd,Wed,November 19 th
-324th,Thu,November 20 th
-325th,Fri,November 21 st
-326th,Sat,November 22 nd
-327th,Sun,November 23 rd
-328th,Mon,November 24 th
-329th,Tue,November 25 th
-330th,Wed,November 26 th
-331st,Thu,November 27 th
-332nd,Fri     Full,November 28 th
-333rd,Sat,November 29 th
-334th,Sun,November 30 th
-335th,Mon,December 1 st
-336th,Tue,December 2 nd
-337th,Wed,December 3 rd
-338th,Thu,December 4 th
-339th,Fri,December 5 th
-340th,Sat,December 6 th
-341st,Sun,December 7 th
-342nd,Mon,December 8 th
-343rd,Tue,December 9 th
-344th,Wed,December 10 th
-345th,Thu,December 11 th
-346th,Fri     New,December 12 th
-347th,Sat,December 13 th
-348th,Sun,December 14 th
-349th,Mon,December 15 th
-350th,Tue,December 16 th
-351st,Wed,December 17 th
-352nd,Thu,December 18 th
-353rd,Fri,December 19 th
-354th,Sat,December 20 th
-355th,Sun,December 21 st
-356th,Mon,December 22 nd
-357th,Tue,December 23 rd
-358th,Wed,December 24 th
-359th,Thu,December 25 th
-360th,Fri,December 26 th
-361st,Sat     Full,December 27 th
-362nd,Sun,December 28 th
-363rd,Mon,December 29 th
-364th,Tue,December 30 th
-365th,Wed,December 31 st
-366th,XXXXX,XXXXX
+SOLAR,9947,HEBREW,Ezekiel,ISLAMIC,GREGORIAN 1947
+1st,Wed,5707 Teveth / 9,|-----Ezekiel's 2520 years (year 2519 day 221,1366 L Safar / 8,January 1 st
+2nd,Thu,5707 Teveth / 10,|-----Ezekiel's 2520 years (year 2519 day 222,1366 L Safar / 9,January 2 nd
+3rd,Fri,5707 Teveth / 11,|-----Ezekiel's 2520 years (year 2519 day 223,1366 L Safar / 10,January 3 rd
+4th,Sat,5707 Teveth / 12,|-----Ezekiel's 2520 years (year 2519 day 224,1366 L Safar / 11,January 4 th
+5th,Sun,5707 Teveth / 13,|-----Ezekiel's 2520 years (year 2519 day 225,1366 L Safar / 12,January 5 th
+6th,Mon,5707 Teveth / 14,|-----Ezekiel's 2520 years (year 2519 day 226,1366 L Safar / 13,January 6 th
+7th,Tue     Full,5707 Teveth / 15,|-----Ezekiel's 2520 years (year 2519 day 227,1366 L Safar / 14,January 7 th
+8th,Wed,5707 Teveth / 16,|-----Ezekiel's 2520 years (year 2519 day 228,1366 L Safar / 15,January 8 th
+9th,Thu,5707 Teveth / 17,|-----Ezekiel's 2520 years (year 2519 day 229,1366 L Safar / 16,January 9 th
+10th,Fri,5707 Teveth / 18,|-----Ezekiel's 2520 years (year 2519 day 230,1366 L Safar / 17,January 10 th
+11th,Sat,5707 Teveth / 19,|-----Ezekiel's 2520 years (year 2519 day 231,1366 L Safar / 18,January 11 th
+12th,Sun,5707 Teveth / 20,|-----Ezekiel's 2520 years (year 2519 day 232,1366 L Safar / 19,January 12 th
+13th,Mon,5707 Teveth / 21,|-----Ezekiel's 2520 years (year 2519 day 233,1366 L Safar / 20,January 13 th
+14th,Tue,5707 Teveth / 22,|-----Ezekiel's 2520 years (year 2519 day 234,1366 L Safar / 21,January 14 th
+15th,Wed,5707 Teveth / 23,|-----Ezekiel's 2520 years (year 2519 day 235,1366 L Safar / 22,January 15 th
+16th,Thu,5707 Teveth / 24,|-----Ezekiel's 2520 years (year 2519 day 236,1366 L Safar / 23,January 16 th
+17th,Fri,5707 Teveth / 25,|-----Ezekiel's 2520 years (year 2519 day 237,1366 L Safar / 24,January 17 th
+18th,Sat,5707 Teveth / 26,|-----Ezekiel's 2520 years (year 2519 day 238,1366 L Safar / 25,January 18 th
+19th,Sun,5707 Teveth / 27,|-----Ezekiel's 2520 years (year 2519 day 239,1366 L Safar / 26,January 19 th
+20th,Mon,5707 Teveth / 28,|-----Ezekiel's 2520 years (year 2519 day 240,1366 L Safar / 27,January 20 th
+21st,Tue,5707 Teveth / 29,|-----Ezekiel's 2520 years (year 2519 day 241,1366 L Safar / 28,January 21 st
+22nd,Wed     New,5707 Shevat / 1,|-----Ezekiel's 2520 years (year 2519 day 242,1366 L Safar / 29,January 22 nd
+23rd,Thu,5707 Shevat / 2,|-----Ezekiel's 2520 years (year 2519 day 243,1366 L Rabi`al-Awwal / 1,January 23 rd
+24th,Fri,5707 Shevat / 3,|-----Ezekiel's 2520 years (year 2519 day 244,1366 L Rabi`al-Awwal / 2,January 24 th
+25th,Sat,5707 Shevat / 4,|-----Ezekiel's 2520 years (year 2519 day 245,1366 L Rabi`al-Awwal / 3,January 25 th
+26th,Sun,5707 Shevat / 5,|-----Ezekiel's 2520 years (year 2519 day 246,1366 L Rabi`al-Awwal / 4,January 26 th
+27th,Mon,5707 Shevat / 6,|-----Ezekiel's 2520 years (year 2519 day 247,1366 L Rabi`al-Awwal / 5,January 27 th
+28th,Tue,5707 Shevat / 7,|-----Ezekiel's 2520 years (year 2519 day 248,1366 L Rabi`al-Awwal / 6,January 28 th
+29th,Wed,5707 Shevat / 8,|-----Ezekiel's 2520 years (year 2519 day 249,1366 L Rabi`al-Awwal / 7,January 29 th
+30th,Thu,5707 Shevat / 9,|-----Ezekiel's 2520 years (year 2519 day 250,1366 L Rabi`al-Awwal / 8,January 30 th
+31st,Fri,5707 Shevat / 10,|-----Ezekiel's 2520 years (year 2519 day 251,1366 L Rabi`al-Awwal / 9,January 31 st
+32nd,Sat,5707 Shevat / 11,|-----Ezekiel's 2520 years (year 2519 day 252,1366 L Rabi`al-Awwal / 10,Febuary 1 st
+33rd,Sun,5707 Shevat / 12,|-----Ezekiel's 2520 years (year 2519 day 253,1366 L Rabi`al-Awwal / 11,Febuary 2 nd
+34th,Mon,5707 Shevat / 13,|-----Ezekiel's 2520 years (year 2519 day 254,1366 L Rabi`al-Awwal / 12,Febuary 3 rd
+35th,Tue,5707 Shevat / 14,|-----Ezekiel's 2520 years (year 2519 day 255,1366 L Rabi`al-Awwal / 13,Febuary 4 th
+36th,Wed     Full,5707 Shevat / 15,|-----Ezekiel's 2520 years (year 2519 day 256,1366 L Rabi`al-Awwal / 14,Febuary 5 th
+36th,Thu,5707 Shevat / 16,|-----Ezekiel's 2520 years (year 2519 day 257,1366 L Rabi`al-Awwal / 15,Febuary 6 th
+38th,Fri,5707 Shevat / 17,|-----Ezekiel's 2520 years (year 2519 day 258,1366 L Rabi`al-Awwal / 16,Febuary 7 th
+39th,Sat,5707 Shevat / 18,|-----Ezekiel's 2520 years (year 2519 day 259,1366 L Rabi`al-Awwal / 17,Febuary 8 th
+40th,Sun,5707 Shevat / 19,|-----Ezekiel's 2520 years (year 2519 day 260,1366 L Rabi`al-Awwal / 18,Febuary 9 th
+41st,Mon,5707 Shevat / 20,|-----Ezekiel's 2520 years (year 2519 day 261,1366 L Rabi`al-Awwal / 19,Febuary 10 th
+42nd,Tue,5707 Shevat / 21,|-----Ezekiel's 2520 years (year 2519 day 262,1366 L Rabi`al-Awwal / 20,Febuary 11 th
+43rd,Wed,5707 Shevat / 22,|-----Ezekiel's 2520 years (year 2519 day 263,1366 L Rabi`al-Awwal / 21,Febuary 12 th
+44th,Thu,5707 Shevat / 23,|-----Ezekiel's 2520 years (year 2519 day 264,1366 L Rabi`al-Awwal / 22,Febuary 13 th
+45th,Fri,5707 Shevat / 24,|-----Ezekiel's 2520 years (year 2519 day 265,1366 L Rabi`al-Awwal / 23,Febuary 14 th
+46th,Sat,5707 Shevat / 25,|-----Ezekiel's 2520 years (year 2519 day 266,1366 L Rabi`al-Awwal / 24,Febuary 15 th
+47th,Sun,5707 Shevat / 26,|-----Ezekiel's 2520 years (year 2519 day 267,1366 L Rabi`al-Awwal / 25,Febuary 16 th
+48th,Mon,5707 Shevat / 27,|-----Ezekiel's 2520 years (year 2519 day 268,1366 L Rabi`al-Awwal / 26,Febuary 17 th
+49th,Tue,5707 Shevat / 28,|-----Ezekiel's 2520 years (year 2519 day 269,1366 L Rabi`al-Awwal / 27,Febuary 18 th
+50th,Wed,5707 Shevat / 29,|-----Ezekiel's 2520 years (year 2519 day 270,1366 L Rabi`al-Awwal / 28,Febuary 19 th
+51st,Thu,5707 Shevat / 30,|-----Ezekiel's 2520 years (year 2519 day 271,1366 L Rabi`al-Awwal / 29,Febuary 20 th
+52nd,Fri     New,5707 Adar / 1,|-----Ezekiel's 2520 years (year 2519 day 272,1366 L Rabi`al-Awwal / 30,Febuary 21 st
+53rd,Sat,5707 Adar / 2,|-----Ezekiel's 2520 years (year 2519 day 273,1366 L Rabi`ath-Thani / 1,Febuary 22 nd
+54th,Sun,5707 Adar / 3,|-----Ezekiel's 2520 years (year 2519 day 274,1366 L Rabi`ath-Thani / 2,Febuary 23 rd
+55th,Mon,5707 Adar / 4,|-----Ezekiel's 2520 years (year 2519 day 275,1366 L Rabi`ath-Thani / 3,Febuary 24 th
+56th,Tue,5707 Adar / 5,|-----Ezekiel's 2520 years (year 2519 day 276,1366 L Rabi`ath-Thani / 4,Febuary 25 th
+57th,Wed,5707 Adar / 6,|-----Ezekiel's 2520 years (year 2519 day 277,1366 L Rabi`ath-Thani / 5,Febuary 26 th
+58th,Thu,5707 Adar / 7,|-----Ezekiel's 2520 years (year 2519 day 278,1366 L Rabi`ath-Thani / 6,Febuary 27 th
+59th,Fri,5707 Adar / 8,|-----Ezekiel's 2520 years (year 2519 day 279,1366 L Rabi`ath-Thani / 7,Febuary 28 th
+60th,Sat,5707 Adar / 9,|-----Ezekiel's 2520 years (year 2519 day 280,1366 L Rabi`ath-Thani / 8,March 1 st
+61st,Sun,5707 Adar / 10,|-----Ezekiel's 2520 years (year 2519 day 281,1366 L Rabi`ath-Thani / 9,March 2 nd
+62nd,Mon,5707 Adar / 11,|-----Ezekiel's 2520 years (year 2519 day 282,1366 L Rabi`ath-Thani / 10,March 3 rd
+63rd,Tue,5707 Adar / 12,|-----Ezekiel's 2520 years (year 2519 day 283,1366 L Rabi`ath-Thani / 11,March 4 th
+64th,Wed,5707 Adar / 13,|-----Ezekiel's 2520 years (year 2519 day 284,1366 L Rabi`ath-Thani / 12,March 5 th
+65th,Thu,5707 Adar / 14,|-----Ezekiel's 2520 years (year 2519 day 285,1366 L Rabi`ath-Thani / 13,March 6 th
+66th,Fri     Full,5707 Adar / 15,|-----Ezekiel's 2520 years (year 2519 day 286,1366 L Rabi`ath-Thani / 14,March 7 th
+67th,Sat,5707 Adar / 16,|-----Ezekiel's 2520 years (year 2519 day 287,1366 L Rabi`ath-Thani / 15,March 8 th
+68th,Sun,5707 Adar / 17,|-----Ezekiel's 2520 years (year 2519 day 288,1366 L Rabi`ath-Thani / 16,March 9 th
+69th,Mon,5707 Adar / 18,|-----Ezekiel's 2520 years (year 2519 day 289,1366 L Rabi`ath-Thani / 17,March 10 th
+70th,Tue,5707 Adar / 19,|-----Ezekiel's 2520 years (year 2519 day 290,1366 L Rabi`ath-Thani / 18,March 11 th
+71st,Wed,5707 Adar / 20,|-----Ezekiel's 2520 years (year 2519 day 291,1366 L Rabi`ath-Thani / 19,March 12 th
+72nd,Thu,5707 Adar / 21,|-----Ezekiel's 2520 years (year 2519 day 292,1366 L Rabi`ath-Thani / 20,March 13 th
+73rd,Fri,5707 Adar / 22,|-----Ezekiel's 2520 years (year 2519 day 293,1366 L Rabi`ath-Thani / 21,March 14 th
+74th,Sat,5707 Adar / 23,|-----Ezekiel's 2520 years (year 2519 day 294,1366 L Rabi`ath-Thani / 22,March 15 th
+75th,Sun,5707 Adar / 24,|-----Ezekiel's 2520 years (year 2519 day 295,1366 L Rabi`ath-Thani / 23,March 16 th
+76th,Mon,5707 Adar / 25,|-----Ezekiel's 2520 years (year 2519 day 296,1366 L Rabi`ath-Thani / 24,March 17 th
+77th,Tue,5707 Adar / 26,|-----Ezekiel's 2520 years (year 2519 day 297,1366 L Rabi`ath-Thani / 25,March 18 th
+78th,Wed,5707 Adar / 27,|-----Ezekiel's 2520 years (year 2519 day 298,1366 L Rabi`ath-Thani / 26,March 19 th
+79th,Thu,5707 Adar / 28,|-----Ezekiel's 2520 years (year 2519 day 299,1366 L Rabi`ath-Thani / 27,March 20 th
+80th EQ,Fri,5707 Adar / 29,|-----Ezekiel's 2520 years (year 2519 day 300,1366 L Rabi`ath-Thani / 28,March 21 st
+81st,Sat     New,5707 Nisan / 1,|-----Ezekiel's 2520 years (year 2519 day 301,1366 L Rabi`ath-Thani / 29,March 22 nd
+82nd,Sun,5707 Nisan / 2,|-----Ezekiel's 2520 years (year 2519 day 302,1366 L Jumada l-Ula / 1,March 23 rd
+83rd,Mon,5707 Nisan / 3,|-----Ezekiel's 2520 years (year 2519 day 303,1366 L Jumada l-Ula / 2,March 24 th
+84th,Tue,5707 Nisan / 4,|-----Ezekiel's 2520 years (year 2519 day 304,1366 L Jumada l-Ula / 3,March 25 th
+85th,Wed,5707 Nisan / 5,|-----Ezekiel's 2520 years (year 2519 day 305,1366 L Jumada l-Ula / 4,March 26 th
+86th,Thu,5707 Nisan / 6,|-----Ezekiel's 2520 years (year 2519 day 306,1366 L Jumada l-Ula / 5,March 27 th
+87th,Fri,5707 Nisan / 7,|-----Ezekiel's 2520 years (year 2519 day 307,1366 L Jumada l-Ula / 6,March 28 th
+88th,Sat,5707 Nisan / 8,|-----Ezekiel's 2520 years (year 2519 day 308,1366 L Jumada l-Ula / 7,March 29 th
+89th,Sun,5707 Nisan / 9,|-----Ezekiel's 2520 years (year 2519 day 309,1366 L Jumada l-Ula / 8,March 30 th
+90th,Mon,5707 Nisan / 10,|-----Ezekiel's 2520 years (year 2519 day 310,1366 L Jumada l-Ula / 9,March 31 st
+91st,Tue,5707 Nisan / 11,|-----Ezekiel's 2520 years (year 2519 day 311,1366 L Jumada l-Ula / 10,April 1 st
+92nd,Wed,5707 Nisan / 12,|-----Ezekiel's 2520 years (year 2519 day 312,1366 L Jumada l-Ula / 11,April 2 nd
+93rd,Thu,5707 Nisan / 13,|-----Ezekiel's 2520 years (year 2519 day 313,1366 L Jumada l-Ula / 12,April 3 rd
+94th,Fri,5707 Nisan / 14,|-----Ezekiel's 2520 years (year 2519 day 314,1366 L Jumada l-Ula / 13,April 4 th
+95th,Sat     Full,5707 Nisan / 15,|-----Ezekiel's 2520 years (year 2519 day 315,1366 L Jumada l-Ula / 14,April 5 th
+96th,Sun,5707 Nisan / 16,|-----Ezekiel's 2520 years (year 2519 day 316,1366 L Jumada l-Ula / 15,April 6 th
+97th,Mon,5707 Nisan / 17,|-----Ezekiel's 2520 years (year 2519 day 317,1366 L Jumada l-Ula / 16,April 7 th
+98th,Tue,5707 Nisan / 18,|-----Ezekiel's 2520 years (year 2519 day 318,1366 L Jumada l-Ula / 17,April 8 th
+99th,Wed,5707 Nisan / 19,|-----Ezekiel's 2520 years (year 2519 day 319,1366 L Jumada l-Ula / 18,April 9 th
+100th,Thu,5707 Nisan / 20,|-----Ezekiel's 2520 years (year 2519 day 320,1366 L Jumada l-Ula / 19,April 10 th
+101st,Fri,5707 Nisan / 21,|-----Ezekiel's 2520 years (year 2519 day 321,1366 L Jumada l-Ula / 20,April 11 th
+102nd,Sat,5707 Nisan / 22,|-----Ezekiel's 2520 years (year 2519 day 322,1366 L Jumada l-Ula / 21,April 12 th
+103rd,Sun,5707 Nisan / 23,|-----Ezekiel's 2520 years (year 2519 day 323,1366 L Jumada l-Ula / 22,April 13 th
+104th,Mon,5707 Nisan / 24,|-----Ezekiel's 2520 years (year 2519 day 324,1366 L Jumada l-Ula / 23,April 14 th
+105th,Tue,5707 Nisan / 25,|-----Ezekiel's 2520 years (year 2519 day 325,1366 L Jumada l-Ula / 24,April 15 th
+106th,Wed,5707 Nisan / 26,|-----Ezekiel's 2520 years (year 2519 day 326,1366 L Jumada l-Ula / 25,April 16 th
+107th,Thu,5707 Nisan / 27,|-----Ezekiel's 2520 years (year 2519 day 327,1366 L Jumada l-Ula / 26,April 17 th
+108th,Fri,5707 Nisan / 28,|-----Ezekiel's 2520 years (year 2519 day 328,1366 L Jumada l-Ula / 27,April 18 th
+109th,Sat,5707 Nisan / 29,|-----Ezekiel's 2520 years (year 2519 day 329,1366 L Jumada l-Ula / 28,April 19 th
+110th,Sun,5707 Nisan / 30,|-----Ezekiel's 2520 years (year 2519 day 330,1366 L Jumada l-Ula / 29,April 20 th
+111th,Mon     New,5707 Iyyar / 1,|-----Ezekiel's 2520 years (year 2519 day 331,1366 L Jumada l-Ula / 30,April 21 st
+112th,Tue,5707 Iyyar / 2,|-----Ezekiel's 2520 years (year 2519 day 332,1366 L Jumada t-Tania / 1,April 22 nd
+113th,Wed,5707 Iyyar / 3,|-----Ezekiel's 2520 years (year 2519 day 333,1366 L Jumada t-Tania / 2,April 23 rd
+114th,Thu,5707 Iyyar / 4,|-----Ezekiel's 2520 years (year 2519 day 334,1366 L Jumada t-Tania / 3,April 24 th
+115th,Fri,5707 Iyyar / 5,|-----Ezekiel's 2520 years (year 2519 day 335,1366 L Jumada t-Tania / 4,April 25 th
+116th,Sat,5707 Iyyar / 6,|-----Ezekiel's 2520 years (year 2519 day 336,1366 L Jumada t-Tania / 5,April 26 th
+117th,Sun,5707 Iyyar / 7,|-----Ezekiel's 2520 years (year 2519 day 337,1366 L Jumada t-Tania / 6,April 27 th
+118th,Mon,5707 Iyyar / 8,|-----Ezekiel's 2520 years (year 2519 day 338,1366 L Jumada t-Tania / 7,April 28 th
+119th,Tue,5707 Iyyar / 9,|-----Ezekiel's 2520 years (year 2519 day 339,1366 L Jumada t-Tania / 8,April 29 th
+120th,Wed,5707 Iyyar / 10,|-----Ezekiel's 2520 years (year 2519 day 340,1366 L Jumada t-Tania / 9,April 30 th
+121st,Thu,5707 Iyyar / 11,|-----Ezekiel's 2520 years (year 2519 day 341,1366 L Jumada t-Tania / 10,May 1 st
+122nd,Fri,5707 Iyyar / 12,|-----Ezekiel's 2520 years (year 2519 day 342,1366 L Jumada t-Tania / 11,May 2 nd
+123rd,Sat,5707 Iyyar / 13,|-----Ezekiel's 2520 years (year 2519 day 343,1366 L Jumada t-Tania / 12,May 3 rd
+124th,Sun,5707 Iyyar / 14,|-----Ezekiel's 2520 years (year 2519 day 344,1366 L Jumada t-Tania / 13,May 4 th
+125th,Mon     Full,5707 Iyyar / 15,|-----Ezekiel's 2520 years (year 2519 day 345,1366 L Jumada t-Tania / 14,May 5 th
+126th,Tue,5707 Iyyar / 16,|-----Ezekiel's 2520 years (year 2519 day 346,1366 L Jumada t-Tania / 15,May 6 th
+127th,Wed,5707 Iyyar / 17,|-----Ezekiel's 2520 years (year 2519 day 347,1366 L Jumada t-Tania / 16,May 7 th
+128th,Thu,5707 Iyyar / 18,|-----Ezekiel's 2520 years (year 2519 day 348,1366 L Jumada t-Tania / 17,May 8 th
+129th,Fri,5707 Iyyar / 19,|-----Ezekiel's 2520 years (year 2519 day 349,1366 L Jumada t-Tania / 18,May 9 th
+130th,Sat,5707 Iyyar / 20,|-----Ezekiel's 2520 years (year 2519 day 350,1366 L Jumada t-Tania / 19,May 10 th
+131st,Sun,5707 Iyyar / 21,|-----Ezekiel's 2520 years (year 2519 day 351,1366 L Jumada t-Tania / 20,May 11 th
+132nd,Mon,5707 Iyyar / 22,|-----Ezekiel's 2520 years (year 2519 day 352,1366 L Jumada t-Tania / 21,May 12 th
+133rd,Tue,5707 Iyyar / 23,|-----Ezekiel's 2520 years (year 2519 day 353,1366 L Jumada t-Tania / 22,May 13 th
+134th,Wed,5707 Iyyar / 24,|-----Ezekiel's 2520 years (year 2519 day 354,1366 L Jumada t-Tania / 23,May 14 th
+135th,Thu,5707 Iyyar / 25,|-----Ezekiel's 2520 years (year 2519 day 355,1366 L Jumada t-Tania / 24,May 15 th
+136th,Fri,5707 Iyyar / 26,|-----Ezekiel's 2520 years (year 2519 day 356,1366 L Jumada t-Tania / 25,May 16 th
+137th,Sat,5707 Iyyar / 27,|-----Ezekiel's 2520 years (year 2519 day 357,1366 L Jumada t-Tania / 26,May 17 th
+138th,Sun,5707 Iyyar / 28,|-----Ezekiel's 2520 years (year 2519 day 358,1366 L Jumada t-Tania / 27,May 18 th
+139th,Mon,5707 Iyyar / 29,|-----Ezekiel's 2520 years (year 2519 day 359,1366 L Jumada t-Tania / 28,May 19 th
+140th,Tue     New,5707 Sivan / 1,|-----Ezekiel's 2520 years (year 2519 day 360,1366 L Jumada t-Tania / 29,May 20 th
+141st,Wed,5707 Sivan / 2,|-----Ezekiel's 2520 years (year 2520 day 1,1366 L Rajab / 1,May 21 st
+142nd,Thu,5707 Sivan / 3,|-----Ezekiel's 2520 years (year 2520 day 2,1366 L Rajab / 2,May 22 nd
+143rd,Fri,5707 Sivan / 4,|-----Ezekiel's 2520 years (year 2520 day 3,1366 L Rajab / 3,May 23 rd
+144th,Sat,5707 Sivan / 5,|-----Ezekiel's 2520 years (year 2520 day 4,1366 L Rajab / 4,May 24 th
+145th,Sun,5707 Sivan / 6,|-----Ezekiel's 2520 years (year 2520 day 5,1366 L Rajab / 5,May 25 th
+146th,Mon,5707 Sivan / 7,|-----Ezekiel's 2520 years (year 2520 day 6,1366 L Rajab / 6,May 26 th
+147th,Tue,5707 Sivan / 8,|-----Ezekiel's 2520 years (year 2520 day 7,1366 L Rajab / 7,May 27 th
+148th,Wed,5707 Sivan / 9,|-----Ezekiel's 2520 years (year 2520 day 8,1366 L Rajab / 8,May 28 th
+149th,Thu,5707 Sivan / 10,|-----Ezekiel's 2520 years (year 2520 day 9,1366 L Rajab / 9,May 29 th
+150th,Fri,5707 Sivan / 11,|-----Ezekiel's 2520 years (year 2520 day 10,1366 L Rajab / 10,May 30 th
+151st,Sat,5707 Sivan / 12,|-----Ezekiel's 2520 years (year 2520 day 11,1366 L Rajab / 11,May 31 st
+152nd,Sun,5707 Sivan / 13,|-----Ezekiel's 2520 years (year 2520 day 12,1366 L Rajab / 12,June 1 st
+153rd,Mon,5707 Sivan / 14,|-----Ezekiel's 2520 years (year 2520 day 13,1366 L Rajab / 13,June 2 nd
+154th,Tue     Full,5707 Sivan / 15,|-----Ezekiel's 2520 years (year 2520 day 14,1366 L Rajab / 14,June 3 rd
+155th,Wed,5707 Sivan / 16,|-----Ezekiel's 2520 years (year 2520 day 15,1366 L Rajab / 15,June 4 th
+156th,Thu,5707 Sivan / 17,|-----Ezekiel's 2520 years (year 2520 day 16,1366 L Rajab / 16,June 5 th
+157th,Fri,5707 Sivan / 18,|-----Ezekiel's 2520 years (year 2520 day 17,1366 L Rajab / 17,June 6 th
+158th,Sat,5707 Sivan / 19,|-----Ezekiel's 2520 years (year 2520 day 18,1366 L Rajab / 18,June 7 th
+159th,Sun,5707 Sivan / 20,|-----Ezekiel's 2520 years (year 2520 day 19,1366 L Rajab / 19,June 8 th
+160th S,Mon,5707 Sivan / 21,|-----Ezekiel's 2520 years (year 2520 day 20,1366 L Rajab / 20,June 9 th
+161st,Tue,5707 Sivan / 22,|-----Ezekiel's 2520 years (year 2520 day 21,1366 L Rajab / 21,June 10 th
+162nd,Wed,5707 Sivan / 23,|-----Ezekiel's 2520 years (year 2520 day 22,1366 L Rajab / 22,June 11 th
+163rd,Thu,5707 Sivan / 24,|-----Ezekiel's 2520 years (year 2520 day 23,1366 L Rajab / 23,June 12 th
+164th,Fri,5707 Sivan / 25,|-----Ezekiel's 2520 years (year 2520 day 24,1366 L Rajab / 24,June 13 th
+165th,Sat,5707 Sivan / 26,|-----Ezekiel's 2520 years (year 2520 day 25,1366 L Rajab / 25,June 14 th
+166th,Sun,5707 Sivan / 27,|-----Ezekiel's 2520 years (year 2520 day 26,1366 L Rajab / 26,June 15 th
+167th,Mon,5707 Sivan / 28,|-----Ezekiel's 2520 years (year 2520 day 27,1366 L Rajab / 27,June 16 th
+168th,Tue,5707 Sivan / 29,|-----Ezekiel's 2520 years (year 2520 day 28,1366 L Rajab / 28,June 17 th
+169th,Wed     New,5707 Sivan / 30,|-----Ezekiel's 2520 years (year 2520 day 29,1366 L Rajab / 29,June 18 th
+170th,Thu,5707 Tammuz / 1,|-----Ezekiel's 2520 years (year 2520 day 30,1366 L Rajab / 30,June 19 th
+171st,Fri,5707 Tammuz / 2,|-----Ezekiel's 2520 years (year 2520 day 31,1366 L Sha`ban / 1,June 20 th
+172nd,Sat,5707 Tammuz / 3,|-----Ezekiel's 2520 years (year 2520 day 32,1366 L Sha`ban / 2,June 21 st
+173rd,Sun,5707 Tammuz / 4,|-----Ezekiel's 2520 years (year 2520 day 33,1366 L Sha`ban / 3,June 22 nd
+174th,Mon,5707 Tammuz / 5,|-----Ezekiel's 2520 years (year 2520 day 34,1366 L Sha`ban / 4,June 23 rd
+175th,Tue,5707 Tammuz / 6,|-----Ezekiel's 2520 years (year 2520 day 35,1366 L Sha`ban / 5,June 24 th
+176th,Wed,5707 Tammuz / 7,|-----Ezekiel's 2520 years (year 2520 day 36,1366 L Sha`ban / 6,June 25 th
+177th,Thu,5707 Tammuz / 8,|-----Ezekiel's 2520 years (year 2520 day 37,1366 L Sha`ban / 7,June 26 th
+178th,Fri,5707 Tammuz / 9,|-----Ezekiel's 2520 years (year 2520 day 38,1366 L Sha`ban / 8,June 27 th
+179th,Sat,5707 Tammuz / 10,|-----Ezekiel's 2520 years (year 2520 day 39,1366 L Sha`ban / 9,June 28 th
+180th,Sun,5707 Tammuz / 11,|-----Ezekiel's 2520 years (year 2520 day 40,1366 L Sha`ban / 10,June 29 th
+181st,Mon,5707 Tammuz / 12,|-----Ezekiel's 2520 years (year 2520 day 41,1366 L Sha`ban / 11,June 30 th
+182nd,Tue,5707 Tammuz / 13,|-----Ezekiel's 2520 years (year 2520 day 42,1366 L Sha`ban / 12,July 1 st
+183rd,Wed,5707 Tammuz / 14,|-----Ezekiel's 2520 years (year 2520 day 43,1366 L Sha`ban / 13,July 2 nd
+184th,Thu     Full,5707 Tammuz / 15,|-----Ezekiel's 2520 years (year 2520 day 44,1366 L Sha`ban / 14,July 3 rd
+185th,Fri,5707 Tammuz / 16,|-----Ezekiel's 2520 years (year 2520 day 45,1366 L Sha`ban / 15,July 4 th
+186th,Sat,5707 Tammuz / 17,|-----Ezekiel's 2520 years (year 2520 day 46,1366 L Sha`ban / 16,July 5 th
+187th,Sun,5707 Tammuz / 18,|-----Ezekiel's 2520 years (year 2520 day 47,1366 L Sha`ban / 17,July 6 th
+188th,Mon,5707 Tammuz / 19,|-----Ezekiel's 2520 years (year 2520 day 48,1366 L Sha`ban / 18,July 7 th
+189th,Tue,5707 Tammuz / 20,|-----Ezekiel's 2520 years (year 2520 day 49,1366 L Sha`ban / 19,July 8 th
+190th,Wed,5707 Tammuz / 21,|-----Ezekiel's 2520 years (year 2520 day 50,1366 L Sha`ban / 20,July 9 th
+191st,Thu,5707 Tammuz / 22,|-----Ezekiel's 2520 years (year 2520 day 51,1366 L Sha`ban / 21,July 10 th
+192nd,Fri,5707 Tammuz / 23,|-----Ezekiel's 2520 years (year 2520 day 52,1366 L Sha`ban / 22,July 11 th
+193rd,Sat,5707 Tammuz / 24,|-----Ezekiel's 2520 years (year 2520 day 53,1366 L Sha`ban / 23,July 12 th
+194th,Sun,5707 Tammuz / 25,|-----Ezekiel's 2520 years (year 2520 day 54,1366 L Sha`ban / 24,July 13 th
+195th,Mon,5707 Tammuz / 26,|-----Ezekiel's 2520 years (year 2520 day 55,1366 L Sha`ban / 25,July 14 th
+196th,Tue,5707 Tammuz / 27,|-----Ezekiel's 2520 years (year 2520 day 56,1366 L Sha`ban / 26,July 15 th
+197th,Wed,5707 Tammuz / 28,|-----Ezekiel's 2520 years (year 2520 day 57,1366 L Sha`ban / 27,July 16 th
+198th,Thu,5707 Tammuz / 29,|-----Ezekiel's 2520 years (year 2520 day 58,1366 L Sha`ban / 28,July 17 th
+199th,Fri     New,5707 Av / 1,|-----Ezekiel's 2520 years (year 2520 day 59,1366 L Sha`ban / 29,July 18 th
+200th,Sat,5707 Av / 2,|-----Ezekiel's 2520 years (year 2520 day 60,1366 L Ramadan / 1,July 19 th
+201st,Sun,5707 Av / 3,|-----Ezekiel's 2520 years (year 2520 day 61,1366 L Ramadan / 2,July 20 th
+202nd,Mon,5707 Av / 4,|-----Ezekiel's 2520 years (year 2520 day 62,1366 L Ramadan / 3,July 21 st
+203rd,Tue,5707 Av / 5,|-----Ezekiel's 2520 years (year 2520 day 63,1366 L Ramadan / 4,July 22 nd
+204th,Wed,5707 Av / 6,|-----Ezekiel's 2520 years (year 2520 day 64,1366 L Ramadan / 5,July 23 rd
+205th,Thu,5707 Av / 7,|-----Ezekiel's 2520 years (year 2520 day 65,1366 L Ramadan / 6,July 24 th
+206th,Fri,5707 Av / 8,|-----Ezekiel's 2520 years (year 2520 day 66,1366 L Ramadan / 7,July 25 th
+207th,Sat,5707 Av / 9,|-----Ezekiel's 2520 years (year 2520 day 67,1366 L Ramadan / 8,July 26 th
+208th,Sun,5707 Av / 10,|-----Ezekiel's 2520 years (year 2520 day 68,1366 L Ramadan / 9,July 27 th
+209th,Mon,5707 Av / 11,|-----Ezekiel's 2520 years (year 2520 day 69,1366 L Ramadan / 10,July 28 th
+210th,Tue,5707 Av / 12,|-----Ezekiel's 2520 years (year 2520 day 70,1366 L Ramadan / 11,July 29 th
+211th,Wed,5707 Av / 13,|-----Ezekiel's 2520 years (year 2520 day 71,1366 L Ramadan / 12,July 30 th
+212th,Thu,5707 Av / 14,|-----Ezekiel's 2520 years (year 2520 day 72,1366 L Ramadan / 13,July 31 st
+213th,Fri,5707 Av / 15,|-----Ezekiel's 2520 years (year 2520 day 73,1366 L Ramadan / 14,August 1 st
+214th,Sat     Full,5707 Av / 16,|-----Ezekiel's 2520 years (year 2520 day 74,1366 L Ramadan / 15,August 2 nd
+215th,Sun,5707 Av / 17,|-----Ezekiel's 2520 years (year 2520 day 75,1366 L Ramadan / 16,August 3 rd
+216th,Mon,5707 Av / 18,|-----Ezekiel's 2520 years (year 2520 day 76,1366 L Ramadan / 17,August 4 th
+217th,Tue,5707 Av / 19,|-----Ezekiel's 2520 years (year 2520 day 77,1366 L Ramadan / 18,August 5 th
+218th,Wed,5707 Av / 20,|-----Ezekiel's 2520 years (year 2520 day 78,1366 L Ramadan / 19,August 6 th
+219th,Thu,5707 Av / 21,|-----Ezekiel's 2520 years (year 2520 day 79,1366 L Ramadan / 20,August 7 th
+220th,Fri,5707 Av / 22,|-----Ezekiel's 2520 years (year 2520 day 80,1366 L Ramadan / 21,August 8 th
+221st,Sat,5707 Av / 23,|-----Ezekiel's 2520 years (year 2520 day 81,1366 L Ramadan / 22,August 9 th
+222nd,Sun,5707 Av / 24,|-----Ezekiel's 2520 years (year 2520 day 82,1366 L Ramadan / 23,August 10 th
+223rd,Mon,5707 Av / 25,|-----Ezekiel's 2520 years (year 2520 day 83,1366 L Ramadan / 24,August 11 th
+224th,Tue,5707 Av / 26,|-----Ezekiel's 2520 years (year 2520 day 84,1366 L Ramadan / 25,August 12 th
+225th,Wed,5707 Av / 27,|-----Ezekiel's 2520 years (year 2520 day 85,1366 L Ramadan / 26,August 13 th
+226th,Thu,5707 Av / 28,|-----Ezekiel's 2520 years (year 2520 day 86,1366 L Ramadan / 27,August 14 th
+227th,Fri,5707 Av / 29,|-----Ezekiel's 2520 years (year 2520 day 87,1366 L Ramadan / 28,August 15 th
+228th,Sat     New,5707 Av / 30,|-----Ezekiel's 2520 years (year 2520 day 88,1366 L Ramadan / 29,August 16 th
+229th,Sun,5707 Elul / 1,|-----Ezekiel's 2520 years (year 2520 day 89,1366 L Ramadan / 30,August 17 th
+230th,Mon,5707 Elul / 2,|-----Ezekiel's 2520 years (year 2520 day 90,1366 L Shawwal / 1,August 18 th
+231st,Tue,5707 Elul / 3,|-----Ezekiel's 2520 years (year 2520 day 91,1366 L Shawwal / 2,August 19 th
+232nd,Wed,5707 Elul / 4,|-----Ezekiel's 2520 years (year 2520 day 92,1366 L Shawwal / 3,August 20 th
+233rd,Thu,5707 Elul / 5,|-----Ezekiel's 2520 years (year 2520 day 93,1366 L Shawwal / 4,August 21 st
+234th,Fri,5707 Elul / 6,|-----Ezekiel's 2520 years (year 2520 day 94,1366 L Shawwal / 5,August 22 nd
+235th,Sat,5707 Elul / 7,|-----Ezekiel's 2520 years (year 2520 day 95,1366 L Shawwal / 6,August 23 rd
+236th,Sun,5707 Elul / 8,|-----Ezekiel's 2520 years (year 2520 day 96,1366 L Shawwal / 7,August 24 th
+237th,Mon,5707 Elul / 9,|-----Ezekiel's 2520 years (year 2520 day 97,1366 L Shawwal / 8,August 25 th
+238th,Tue,5707 Elul / 10,|-----Ezekiel's 2520 years (year 2520 day 98,1366 L Shawwal / 9,August 26 th
+239th,Wed,5707 Elul / 11,|-----Ezekiel's 2520 years (year 2520 day 99,1366 L Shawwal / 10,August 27 th
+240th,Thu,5707 Elul / 12,|-----Ezekiel's 2520 years (year 2520 day 100,1366 L Shawwal / 11,August 28 th
+241st,Fri,5707 Elul / 13,|-----Ezekiel's 2520 years (year 2520 day 101,1366 L Shawwal / 12,August 29 th
+242nd,Sat,5707 Elul / 14,|-----Ezekiel's 2520 years (year 2520 day 102,1366 L Shawwal / 13,August 30 th
+243rd,Sun     Full,5707 Elul / 15,|-----Ezekiel's 2520 years (year 2520 day 103,1366 L Shawwal / 14,August 31 st
+244th,Mon,5707 Elul / 16,|-----Ezekiel's 2520 years (year 2520 day 104,1366 L Shawwal / 15,September 1 st
+245th,Tue,5707 Elul / 17,|-----Ezekiel's 2520 years (year 2520 day 105,1366 L Shawwal / 16,September 2 nd
+246th,Wed,5707 Elul / 18,|-----Ezekiel's 2520 years (year 2520 day 106,1366 L Shawwal / 17,September 3 rd
+247th,Thu,5707 Elul / 19,|-----Ezekiel's 2520 years (year 2520 day 107,1366 L Shawwal / 18,September 4 th
+248th,Fri,5707 Elul / 20,|-----Ezekiel's 2520 years (year 2520 day 108,1366 L Shawwal / 19,September 5 th
+249th,Sat,5707 Elul / 21,|-----Ezekiel's 2520 years (year 2520 day 109,1366 L Shawwal / 20,September 6 th
+250th,Sun,5707 Elul / 22,|-----Ezekiel's 2520 years (year 2520 day 110,1366 L Shawwal / 21,September 7 th
+251st,Mon,5707 Elul / 23,|-----Ezekiel's 2520 years (year 2520 day 111,1366 L Shawwal / 22,September 8 th
+252nd,Tue,5707 Elul / 24,|-----Ezekiel's 2520 years (year 2520 day 112,1366 L Shawwal / 23,September 9 th
+253rd,Wed,5707 Elul / 25,|-----Ezekiel's 2520 years (year 2520 day 113,1366 L Shawwal / 24,September 10 th
+254th,Thu,5707 Elul / 26,|-----Ezekiel's 2520 years (year 2520 day 114,1366 L Shawwal / 25,September 11 th
+255th,Fri,5707 Elul / 27,|-----Ezekiel's 2520 years (year 2520 day 115,1366 L Shawwal / 26,September 12 th
+256th,Sat,5707 Elul / 28,|-----Ezekiel's 2520 years (year 2520 day 116,1366 L Shawwal / 27,September 13 th
+257th,Sun     New,5707 Elul / 29,|-----Ezekiel's 2520 years (year 2520 day 117,1366 L Shawwal / 28,September 14 th
+258th,Mon,5708 L Tishri / 1,|-----Ezekiel's 2520 years (year 2520 day 118,1366 L Shawwal / 29,September 15 th
+259th,Tue,5708 L Tishri / 2,|-----Ezekiel's 2520 years (year 2520 day 119,1366 L Dhu l-Qa`da / 1,September 16 th
+260th,Wed,5708 L Tishri / 3,|-----Ezekiel's 2520 years (year 2520 day 120,1366 L Dhu l-Qa`da / 2,September 17 th
+261st,Thu,5708 L Tishri / 4,|-----Ezekiel's 2520 years (year 2520 day 121,1366 L Dhu l-Qa`da / 3,September 18 th
+262nd,Fri,5708 L Tishri / 5,|-----Ezekiel's 2520 years (year 2520 day 122,1366 L Dhu l-Qa`da / 4,September 19 th
+263rd,Sat,5708 L Tishri / 6,|-----Ezekiel's 2520 years (year 2520 day 123,1366 L Dhu l-Qa`da / 5,September 20 th
+264th,Sun,5708 L Tishri / 7,|-----Ezekiel's 2520 years (year 2520 day 124,1366 L Dhu l-Qa`da / 6,September 21 st
+265th,Mon,5708 L Tishri / 8,|-----Ezekiel's 2520 years (year 2520 day 125,1366 L Dhu l-Qa`da / 7,September 22 nd
+266th EQ,Tue,5708 L Tishri / 9,|-----Ezekiel's 2520 years (year 2520 day 126,1366 L Dhu l-Qa`da / 8,September 23 rd
+267th,Wed,5708 L Tishri / 10,|-----Ezekiel's 2520 years (year 2520 day 127,1366 L Dhu l-Qa`da / 9,September 24 th
+268th,Thu,5708 L Tishri / 11,|-----Ezekiel's 2520 years (year 2520 day 128,1366 L Dhu l-Qa`da / 10,September 25 th
+269th,Fri,5708 L Tishri / 12,|-----Ezekiel's 2520 years (year 2520 day 129,1366 L Dhu l-Qa`da / 11,September 26 th
+270th,Sat,5708 L Tishri / 13,|-----Ezekiel's 2520 years (year 2520 day 130,1366 L Dhu l-Qa`da / 12,September 27 th
+271st,Sun,5708 L Tishri / 14,|-----Ezekiel's 2520 years (year 2520 day 131,1366 L Dhu l-Qa`da / 13,September 28 th
+272nd,Mon,5708 L Tishri / 15,|-----Ezekiel's 2520 years (year 2520 day 132,1366 L Dhu l-Qa`da / 14,September 29 th
+273rd,Tue     Full,5708 L Tishri / 16,|-----Ezekiel's 2520 years (year 2520 day 133,1366 L Dhu l-Qa`da / 15,September 30 th
+274th,Wed,5708 L Tishri / 17,|-----Ezekiel's 2520 years (year 2520 day 134,1366 L Dhu l-Qa`da / 16,October 1 st
+275th,Thu,5708 L Tishri / 18,|-----Ezekiel's 2520 years (year 2520 day 135,1366 L Dhu l-Qa`da / 17,October 2 nd
+276th,Fri,5708 L Tishri / 19,|-----Ezekiel's 2520 years (year 2520 day 136,1366 L Dhu l-Qa`da / 18,October 3 rd
+277th,Sat,5708 L Tishri / 20,|-----Ezekiel's 2520 years (year 2520 day 137,1366 L Dhu l-Qa`da / 19,October 4 th
+278th,Sun,5708 L Tishri / 21,|-----Ezekiel's 2520 years (year 2520 day 138,1366 L Dhu l-Qa`da / 20,October 5 th
+279th,Mon,5708 L Tishri / 22,|-----Ezekiel's 2520 years (year 2520 day 139,1366 L Dhu l-Qa`da / 21,October 6 th
+280th,Tue,5708 L Tishri / 23,|-----Ezekiel's 2520 years (year 2520 day 140,1366 L Dhu l-Qa`da / 22,October 7 th
+281st,Wed,5708 L Tishri / 24,|-----Ezekiel's 2520 years (year 2520 day 141,1366 L Dhu l-Qa`da / 23,October 8 th
+282nd,Thu,5708 L Tishri / 25,|-----Ezekiel's 2520 years (year 2520 day 142,1366 L Dhu l-Qa`da / 24,October 9 th
+283rd,Fri,5708 L Tishri / 26,|-----Ezekiel's 2520 years (year 2520 day 143,1366 L Dhu l-Qa`da / 25,October 10 th
+284th,Sat,5708 L Tishri / 27,|-----Ezekiel's 2520 years (year 2520 day 144,1366 L Dhu l-Qa`da / 26,October 11 th
+285th,Sun,5708 L Tishri / 28,|-----Ezekiel's 2520 years (year 2520 day 145,1366 L Dhu l-Qa`da / 27,October 12 th
+286th,Mon,5708 L Tishri / 29,|-----Ezekiel's 2520 years (year 2520 day 146,1366 L Dhu l-Qa`da / 28,October 13 th
+287th,Tue     New,5708 L Tishri / 30,|-----Ezekiel's 2520 years (year 2520 day 147,1366 L Dhu l-Qa`da / 29,October 14 th
+288th,Wed,5708 L Heshvan / 1,|-----Ezekiel's 2520 years (year 2520 day 148,1366 L Dhu l-Qa`da / 30,October 15 th
+289th,Thu,5708 L Heshvan / 2,|-----Ezekiel's 2520 years (year 2520 day 149,1366 L Dhu l-Hijja / 1,October 16 th
+290th,Fri,5708 L Heshvan / 3,|-----Ezekiel's 2520 years (year 2520 day 150,1366 L Dhu l-Hijja / 2,October 17 th
+291st,Sat,5708 L Heshvan / 4,|-----Ezekiel's 2520 years (year 2520 day 151,1366 L Dhu l-Hijja / 3,October 18 th
+292nd,Sun,5708 L Heshvan / 5,|-----Ezekiel's 2520 years (year 2520 day 152,1366 L Dhu l-Hijja / 4,October 19 th
+293rd,Mon,5708 L Heshvan / 6,|-----Ezekiel's 2520 years (year 2520 day 153,1366 L Dhu l-Hijja / 5,October 20 th
+294th,Tue,5708 L Heshvan / 7,|-----Ezekiel's 2520 years (year 2520 day 154,1366 L Dhu l-Hijja / 6,October 21 st
+295th,Wed,5708 L Heshvan / 8,|-----Ezekiel's 2520 years (year 2520 day 155,1366 L Dhu l-Hijja / 7,October 22 nd
+296th,Thu,5708 L Heshvan / 9,|-----Ezekiel's 2520 years (year 2520 day 156,1366 L Dhu l-Hijja / 8,October 23 rd
+297th,Fri,5708 L Heshvan / 10,|-----Ezekiel's 2520 years (year 2520 day 157,1366 L Dhu l-Hijja / 9,October 24 th
+298th,Sat,5708 L Heshvan / 11,|-----Ezekiel's 2520 years (year 2520 day 158,1366 L Dhu l-Hijja / 10,October 25 th
+299th,Sun,5708 L Heshvan / 12,|-----Ezekiel's 2520 years (year 2520 day 159,1366 L Dhu l-Hijja / 11,October 26 th
+300th,Mon,5708 L Heshvan / 13,|-----Ezekiel's 2520 years (year 2520 day 160,1366 L Dhu l-Hijja / 12,October 27 th
+301st,Tue,5708 L Heshvan / 14,|-----Ezekiel's 2520 years (year 2520 day 161,1366 L Dhu l-Hijja / 13,October 28 th
+302nd,Wed     Full,5708 L Heshvan / 15,|-----Ezekiel's 2520 years (year 2520 day 162,1366 L Dhu l-Hijja / 14,October 29 th
+303rd,Thu,5708 L Heshvan / 16,|-----Ezekiel's 2520 years (year 2520 day 163,1366 L Dhu l-Hijja / 15,October 30 th
+304th,Fri,5708 L Heshvan / 17,|-----Ezekiel's 2520 years (year 2520 day 164,1366 L Dhu l-Hijja / 16,October 31 st
+305th,Sat,5708 L Heshvan / 18,|-----Ezekiel's 2520 years (year 2520 day 165,1366 L Dhu l-Hijja / 17,November 1 st
+306th,Sun,5708 L Heshvan / 19,|-----Ezekiel's 2520 years (year 2520 day 166,1366 L Dhu l-Hijja / 18,November 2 nd
+307th,Mon,5708 L Heshvan / 20,|-----Ezekiel's 2520 years (year 2520 day 167,1366 L Dhu l-Hijja / 19,November 3 rd
+308th,Tue,5708 L Heshvan / 21,|-----Ezekiel's 2520 years (year 2520 day 168,1366 L Dhu l-Hijja / 20,November 4 th
+309th,Wed,5708 L Heshvan / 22,|-----Ezekiel's 2520 years (year 2520 day 169,1366 L Dhu l-Hijja / 21,November 5 th
+310th,Thu,5708 L Heshvan / 23,|-----Ezekiel's 2520 years (year 2520 day 170,1366 L Dhu l-Hijja / 22,November 6 th
+311th,Fri,5708 L Heshvan / 24,|-----Ezekiel's 2520 years (year 2520 day 171,1366 L Dhu l-Hijja / 23,November 7 th
+312th,Sat,5708 L Heshvan / 25,|-----Ezekiel's 2520 years (year 2520 day 172,1366 L Dhu l-Hijja / 24,November 8 th
+313th,Sun,5708 L Heshvan / 26,|-----Ezekiel's 2520 years (year 2520 day 173,1366 L Dhu l-Hijja / 25,November 9 th
+314th,Mon,5708 L Heshvan / 27,|-----Ezekiel's 2520 years (year 2520 day 174,1366 L Dhu l-Hijja / 26,November 10 th
+315th,Tue,5708 L Heshvan / 28,|-----Ezekiel's 2520 years (year 2520 day 175,1366 L Dhu l-Hijja / 27,November 11 th
+316th,Wed     New,5708 L Heshvan / 29,|-----Ezekiel's 2520 years (year 2520 day 176,1366 L Dhu l-Hijja / 28,November 12 th
+317th,Thu,5708 L Heshvan / 30,|-----Ezekiel's 2520 years (year 2520 day 177,1366 L Dhu l-Hijja / 29,November 13 th
+318th,Fri,5708 L Kislev / 1,|-----Ezekiel's 2520 years (year 2520 day 178,1366 L Dhu l-Hijja / 30,November 14 th
+319th,Sat,5708 L Kislev / 2,|-----Ezekiel's 2520 years (year 2520 day 179,1367 Muharram / 1 New Year,November 15 th
+320th,Sun,5708 L Kislev / 3,|-----Ezekiel's 2520 years (year 2520 day 180,1367 Muharram / 2,November 16 th
+321st,Mon,5708 L Kislev / 4,|-----Ezekiel's 2520 years (year 2520 day 181,1367 Muharram / 3,November 17 th
+322nd,Tue,5708 L Kislev / 5,|-----Ezekiel's 2520 years (year 2520 day 182,1367 Muharram / 4,November 18 th
+323rd,Wed,5708 L Kislev / 6,|-----Ezekiel's 2520 years (year 2520 day 183,1367 Muharram / 5,November 19 th
+324th,Thu,5708 L Kislev / 7,|-----Ezekiel's 2520 years (year 2520 day 184,1367 Muharram / 6,November 20 th
+325th,Fri,5708 L Kislev / 8,|-----Ezekiel's 2520 years (year 2520 day 185,1367 Muharram / 7,November 21 st
+326th,Sat,5708 L Kislev / 9,|-----Ezekiel's 2520 years (year 2520 day 186,1367 Muharram / 8,November 22 nd
+327th,Sun,5708 L Kislev / 10,|-----Ezekiel's 2520 years (year 2520 day 187,1367 Muharram / 9,November 23 rd
+328th,Mon,5708 L Kislev / 11,|-----Ezekiel's 2520 years (year 2520 day 188,1367 Muharram / 10,November 24 th
+329th,Tue,5708 L Kislev / 12,|-----Ezekiel's 2520 years (year 2520 day 189,1367 Muharram / 11,November 25 th
+330th,Wed,5708 L Kislev / 13,|-----Ezekiel's 2520 years (year 2520 day 190,1367 Muharram / 12,November 26 th
+331st,Thu,5708 L Kislev / 14,|-----Ezekiel's 2520 years (year 2520 day 191,1367 Muharram / 13,November 27 th
+332nd,Fri     Full,5708 L Kislev / 15,|-----Ezekiel's 2520 years (year 2520 day 192,1367 Muharram / 14,November 28 th
+333rd,Sat,5708 L Kislev / 16,|-----Ezekiel's 2520 years (year 2520 day 193,1367 Muharram / 15,November 29 th
+334th,Sun,5708 L Kislev / 17,|-----Ezekiel's 2520 years (year 2520 day 194,1367 Muharram / 16,November 30 th
+335th,Mon,5708 L Kislev / 18,|-----Ezekiel's 2520 years (year 2520 day 195,1367 Muharram / 17,December 1 st
+336th,Tue,5708 L Kislev / 19,|-----Ezekiel's 2520 years (year 2520 day 196,1367 Muharram / 18,December 2 nd
+337th,Wed,5708 L Kislev / 20,|-----Ezekiel's 2520 years (year 2520 day 197,1367 Muharram / 19,December 3 rd
+338th,Thu,5708 L Kislev / 21,|-----Ezekiel's 2520 years (year 2520 day 198,1367 Muharram / 20,December 4 th
+339th,Fri,5708 L Kislev / 22,|-----Ezekiel's 2520 years (year 2520 day 199,1367 Muharram / 21,December 5 th
+340th,Sat,5708 L Kislev / 23,|-----Ezekiel's 2520 years (year 2520 day 200,1367 Muharram / 22,December 6 th
+341st,Sun,5708 L Kislev / 24,|-----Ezekiel's 2520 years (year 2520 day 201,1367 Muharram / 23,December 7 th
+342nd,Mon,5708 L Kislev / 25,|-----Ezekiel's 2520 years (year 2520 day 202,1367 Muharram / 24,December 8 th
+343rd,Tue,5708 L Kislev / 26,|-----Ezekiel's 2520 years (year 2520 day 203,1367 Muharram / 25,December 9 th
+344th,Wed,5708 L Kislev / 27,|-----Ezekiel's 2520 years (year 2520 day 204,1367 Muharram / 26,December 10 th
+345th,Thu,5708 L Kislev / 28,|-----Ezekiel's 2520 years (year 2520 day 205,1367 Muharram / 27,December 11 th
+346th,Fri     New,5708 L Kislev / 29,|-----Ezekiel's 2520 years (year 2520 day 206,1367 Muharram / 28,December 12 th
+347th,Sat,5708 L Kislev / 30,|-----Ezekiel's 2520 years (year 2520 day 207,1367 Muharram / 29,December 13 th
+348th,Sun,5708 L Teveth / 1,|-----Ezekiel's 2520 years (year 2520 day 208,1367 Muharram / 30,December 14 th
+349th,Mon,5708 L Teveth / 2,|-----Ezekiel's 2520 years (year 2520 day 209,1367 Safar / 1,December 15 th
+350th,Tue,5708 L Teveth / 3,|-----Ezekiel's 2520 years (year 2520 day 210,1367 Safar / 2,December 16 th
+351st,Wed,5708 L Teveth / 4,|-----Ezekiel's 2520 years (year 2520 day 211,1367 Safar / 3,December 17 th
+352nd,Thu,5708 L Teveth / 5,|-----Ezekiel's 2520 years (year 2520 day 212,1367 Safar / 4,December 18 th
+353rd,Fri,5708 L Teveth / 6,|-----Ezekiel's 2520 years (year 2520 day 213,1367 Safar / 5,December 19 th
+354th,Sat,5708 L Teveth / 7,|-----Ezekiel's 2520 years (year 2520 day 214,1367 Safar / 6,December 20 th
+355th,Sun,5708 L Teveth / 8,|-----Ezekiel's 2520 years (year 2520 day 215,1367 Safar / 7,December 21 st
+356th,Mon,5708 L Teveth / 9,|-----Ezekiel's 2520 years (year 2520 day 216,1367 Safar / 8,December 22 nd
+357th,Tue,5708 L Teveth / 10,|-----Ezekiel's 2520 years (year 2520 day 217,1367 Safar / 9,December 23 rd
+358th,Wed,5708 L Teveth / 11,|-----Ezekiel's 2520 years (year 2520 day 218,1367 Safar / 10,December 24 th
+359th,Thu,5708 L Teveth / 12,|-----Ezekiel's 2520 years (year 2520 day 219,1367 Safar / 11,December 25 th
+360th,Fri,5708 L Teveth / 13,|-----Ezekiel's 2520 years (year 2520 day 220,1367 Safar / 12,December 26 th
+361st,Sat     Full,5708 L Teveth / 14,|-----Ezekiel's 2520 years (year 2520 day 221,1367 Safar / 13,December 27 th
+362nd,Sun,5708 L Teveth / 15,|-----Ezekiel's 2520 years (year 2520 day 222,1367 Safar / 14,December 28 th
+363rd,Mon,5708 L Teveth / 16,|-----Ezekiel's 2520 years (year 2520 day 223,1367 Safar / 15,December 29 th
+364th,Tue,5708 L Teveth / 17,|-----Ezekiel's 2520 years (year 2520 day 224,1367 Safar / 16,December 30 th
+365th,Wed,5708 L Teveth / 18,|-----Ezekiel's 2520 years (year 2520 day 225,1367 Safar / 17,December 31 st
