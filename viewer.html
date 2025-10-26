@@ -59,6 +59,9 @@
       text-overflow: clip;
       max-width: 60px;
     }
+    .highlight-row {
+      background-color: #e0f7ff; /* light blue */
+    }
     thead tr {
       position: sticky;
       top: 0;
@@ -109,18 +112,12 @@
     function changeYear(offset) {
       let { year, era, type } = currentParams;
 
-      // Convert to signed year
       let signedYear = era === 'BC' ? -year : year;
-
-      // Apply offset
       signedYear += offset;
-
-      // Skip year 0
       if (signedYear === 0) {
         signedYear = offset > 0 ? 1 : -1;
       }
 
-      // Normalize back to year and era
       year = Math.abs(signedYear);
       era = signedYear < 0 ? 'BC' : 'AD';
 
@@ -160,10 +157,12 @@
           });
           html += '</tr></thead><tbody>';
           rows.slice(1).forEach(row => {
-            html += '<tr>';
+            const rowHasPipe = row.some(cell => cell.includes('|'));
+            html += `<tr${rowHasPipe ? ' class="highlight-row"' : ''}>`;
             row.forEach(cell => {
-              let cellClass = cell.includes('|') ? 'overflow-cell' : 'normal-cell';
-              html += `<td class="${cellClass}" title="${cell}">${cell}</td>`;
+              const transformedCell = cell.replace(/\|/g, '|-----');
+              const cellClass = cell.includes('|') ? 'overflow-cell' : 'normal-cell';
+              html += `<td class="${cellClass}" title="${transformedCell}">${transformedCell}</td>`;
             });
             html += '</tr>';
           });
