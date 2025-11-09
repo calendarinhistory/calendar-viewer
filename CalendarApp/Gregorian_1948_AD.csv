@@ -106,7 +106,7 @@ SOLAR,9948 L,HEBREW,ISLAMIC,GREGORIAN 1948
 53rd,Sun,5708 L Adar I / 12,1367 Rabi ath-Thani / 11,February / 22
 ,,|Ezekiel's 2520 years (year 2520 day 278,,
 54th,Mon,5708 L Adar I / 13,1367 Rabi ath-Thani / 12,February / 23
-,,|1st Ben Yehuda bombing in Jerusalem,,
+,,[-----1st Ben Yehuda bombing in Jerusalem,,
 ,,|Ezekiel's 2520 years (year 2520 day 279,,
 55th,Tue     Full,5708 L Adar I / 14,1367 Rabi ath-Thani / 13,February / 24
 ,,|Ezekiel's 2520 years (year 2520 day 280,,
@@ -135,7 +135,7 @@ SOLAR,9948 L,HEBREW,ISLAMIC,GREGORIAN 1948
 67th,Sun,5708 L Adar I / 26,1367 Rabi ath-Thani / 25,March / 7
 ,,|Ezekiel's 2520 years (year 2520 day 292,,
 68th,Mon,5708 L Adar I / 27,1367 Rabi ath-Thani / 26,March / 8
-,,|Ezekiel's 2520 years (year 2520 day 293,,|United States Supreme Court rules religious instruction violates U.S. Constitution
+,,|Ezekiel's 2520 years (year 2520 day 293,,[-----United States Supreme Court rules religious instruction violates U.S. Constitution
 69th,Tue,5708 L Adar I / 28,1367 Rabi ath-Thani / 27,March / 9
 ,,|Ezekiel's 2520 years (year 2520 day 294,,
 70th,Wed     New,5708 L Adar I / 29,1367 Rabi ath-Thani / 28,March / 10
@@ -270,28 +270,28 @@ SOLAR,9948 L,HEBREW,ISLAMIC,GREGORIAN 1948
 ,,|Ezekiel's 2520 years (year 2520 day 359,,
 135th,Fri,5708 L Iyyar / 5,1367 Rajab / 5,May / 14
 ,,|Ezekiel's 2520 years (year 2520 day 360,,
-,,|Israeli Declaration of Independence,,
-,,|Davi Ben-Gurion made 1st Prime minister,,
+,,[-----Israeli Declaration of Independence,,
+,,[-----Davi Ben-Gurion made 1st Prime minister,,
 136th,Sat,5708 L Iyyar / 6,1367 Rajab / 6,May / 15
-,,|Arab-Israeli War starts,,
-,,|Egypt attacked Nirim and Kfar Darom,,
+,,[-----Arab-Israeli War starts,,
+,,[-----Egypt attacked Nirim and Kfar Darom,,
 137th,Sun,5708 L Iyyar / 7,1367 Rajab / 7,May / 16
 138th,Mon,5708 L Iyyar / 8,1367 Rajab / 8,May / 17
 139th,Tue,5708 L Iyyar / 9,1367 Rajab / 9,May / 18
 140th,Wed,5708 L Iyyar / 10,1367 Rajab / 10,May / 19
-,,|Egypt attacked Yad Mordechai day 1,,
+,,[-----Egypt attacked Yad Mordechai day 1,,
 141st,Thu,5708 L Iyyar / 11,1367 Rajab / 11,May / 20
-,,|Egyption attack of Yad Mordechai day 2,,
+,,[-----Egyption attack of Yad Mordechai day 2,,
 142nd,Fri,5708 L Iyyar / 12,1367 Rajab / 12,May / 21
-,,|Egyption attack of Yad Mordechai day 3,,
+,,[-----Egyption attack of Yad Mordechai day 3,,
 143rd,Sat,5708 L Iyyar / 13,1367 Rajab / 13,May / 22
-,,|Egyption attack of Yad Mordechai day 4,,
+,,[-----Egyption attack of Yad Mordechai day 4,,
 144th,Sun     Full,5708 L Iyyar / 14,1367 Rajab / 14,May / 23
-,,|Egyption attack of Yad Mordechai day 5,,
+,,[-----Egyption attack of Yad Mordechai day 5,,
 145th,Mon,5708 L Iyyar / 15,1367 Rajab / 15,May / 24
 146th,Tue,5708 L Iyyar / 16,1367 Rajab / 16,May / 25
 147th,Wed,5708 L Iyyar / 17,1367 Rajab / 17,May / 26
-,,|Israeli Defense Forces established,,
+,,[-----Israeli Defense Forces established,,
 148th,Thu,5708 L Iyyar / 18,1367 Rajab / 18,May / 27
 149th,Fri,5708 L Iyyar / 19,1367 Rajab / 19,May / 28
 150th,Sat,5708 L Iyyar / 20,1367 Rajab / 20,May / 29
@@ -511,3 +511,4 @@ SOLAR,9948 L,HEBREW,ISLAMIC,GREGORIAN 1948
 364th,Wed,5709 Kislev / 27,1368 Safar / 27,December / 29
 365th,Thu     New,5709 Kislev / 28,1368 Safar / 28,December / 30
 366th,Fri,5709 Kislev / 29,1368 Safar / 29,December / 31
+
